@@ -1,7 +1,5 @@
-Become a Developer
-======
-Suggested Resources Assuming No Prior Experience
-------
+# Become a Developer
+## Suggested Resources Assuming No Prior Experience
 ------
 
 The below sections outline my personal suggestions as to how to jump start a development career under the assumption that you (under the assumption that _you_ are the aspirant in question) have absolutely no prior experience. __Note:__ This guide is intended to make you job-market ready specifically, which includes an opinionated emphasis on web development first and a decided lack of coverage of less strictly necessary, more theoretical topics in computer science. In addition, the resources listed, particularly for community engagement, may only be regionally relevant to the Louisville area; in these cases the limitation should be obvious. Finally, all resources given have been chosen with great respect paid to cost, that is to say that free options are considered first, followed by low-cost and subscription options, and finally by high-cost and lump-payment options.
@@ -21,8 +19,8 @@ The following subsections give a brief overview of your suggested ordered learni
   * Text editors
   * Source control
     * Bash (Linux shell commands)
-    * git
-    * Github
+    * Git
+    * GitHub
   * Programming fundamentals
     * Variables
     * Data Types
@@ -58,20 +56,23 @@ The following subsections give a brief overview of your suggested ordered learni
 #### Resources
 
 0. Foundational Topics
-  * <https://www.gnu.org/software/bash/manual/>
-  * <https://git-scm.com/doc>
-  * <https://guides.github.com/>
-  * <https://press.rebus.community/programmingfundamentals/>
+  * <https://www.gnu.org/software/bash/manual/> - __Bash Manual__
+  * <https://git-scm.com/doc> - __Git Docs__
+  * <https://guides.github.com/> - __GitHub Docs__
+  * <https://press.rebus.community/programmingfundamentals/> - **_Programming Fundamentals, A Modular Structured Approach, 2nd Edition_ by Kenneth Leroy Busbee and Dave Braunschweig**: A programming text available online for free (originally found via its [Wikibooks listing](https://en.wikibooks.org/wiki/Programming_Fundamentals>).
 1. The "Front-End" Web Development Stack
-  * <https://developer.mozilla.org/en-US/>
-  * <https://www.w3schools.com/>
-  * <https://code.visualstudio.com/>
-  * <https://atom.io/>
+  * <https://developer.mozilla.org/en-US/> - __MDN (Mozilla Developer Network)__: The go-to developer documentation for HTML, CSS, JavaScript, and standard web APIs (Application Programming Interfaces).
+  * <https://www.w3schools.com/> - __W3 Schools__: More beginner-friendly and bare-bones documentation for HTML, CSS, JavaScript, and standard web APIs (Application Programming Interfaces).
+  * <https://code.visualstudio.com/> - __Visual Studio Code (VSCode)__: Download for Visual Sutdio Code, one of the most popular text editors for coding.
+  * <https://atom.io/> - __Atom__: Download for Atom, one of the most popular text editors for coding.
 2. "Back-End" Programming
-  * <https://developer.mozilla.org/en-US/>
-  * <https://docs.microsoft.com/en-us/dotnet/csharp/>
-  * <https://docs.oracle.com/en/java/javase/12/>
-  * <https://docs.python.org/3/>
+  * <https://developer.mozilla.org/en-US/> - __MDN (Mozilla Developer Network)__: The go-to developer documentation for HTML, CSS, JavaScript, and standard web APIs (Application Programming Interfaces).
+  * <https://docs.microsoft.com/en-us/dotnet/csharp/> - __C#/.NET Docs__: The go-to developer documentation for C#/.NET.
+  * <https://docs.oracle.com/en/java/javase/12/> - __Java Docs__: The go-to developer documentation for Java and the JDK (Java Development Kit).
+  * <https://docs.python.org/3/> - __Python Docs__: The go-to developer documentation for Python.
+
+##### General Resources:
+  * <https://www.humblebundle.com/> - __Humble Bundle__: A nonprofit known primarily for selling groups of video games for cheap to profit charity, this organization also features a number of learning bundles usually focused on software development and other computer science topics. These are mostly e-books with occasional inclusion of videos and project code, and the two publishers for which I suggest watching are No Starch and Packt.
 
 #### Notes
 
@@ -94,11 +95,11 @@ The following subsections give project suggestions intended to build your portfo
 #### Resources
 
 0. Foundational Topics (companion sources for recreational reinforcement of principles, _not intended_ to be used in place of main sources)
-  * <http://www.zachtronics.com/exapunks/>
-  * <http://www.zachtronics.com/shenzhen-io/>
-  * <http://www.zachtronics.com/tis-100/>
+  * <http://www.zachtronics.com/exapunks/> - __EXAPUNKS__: A programming video game that uses a pseudocode syntax that stresses real programming principles. If purchasing on Steam, look out for one of many frequent sales on this title.
+  * <http://www.zachtronics.com/shenzhen-io/> - __SHENZHEN I/O__: A programming video game that uses a syntax reminiscent of [assembly language](https://en.wikipedia.org/wiki/Assembly_language) that stresses real programming principles. If purchasing on Steam, look out for one of many frequent sales on this title.
+  * <http://www.zachtronics.com/tis-100/> - __TIS-100__: A programming video game that uses a syntax reminiscent of [assembly language](https://en.wikipedia.org/wiki/Assembly_language) that stresses real programming principles. If purchasing on Steam, look out for one of many frequent sales on this title.
 1. The Front-End Web Development Stack
-  * <https://www.codecademy.com/learn/make-a-website>
+  * <https://www.codecademy.com/learn/make-a-website> - __*Make a Website* Course by Codecademy__: Course from Codecademy's free tier designed to teach you to code a website from scratch using HTML, CSS, and the Bootstrap framework.
 
 #### Notes
 
